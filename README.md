@@ -14,5 +14,5 @@ The project focuses on the automated discovery and annotation of Zones of Intere
 
 The following image demonstrates an example of a final ZOI shape along with its context.
 
-![](https://github.com/omar-ghannou/ZOI/edit/main/images/ZOIs.png)
+![](https://github.com/omar-ghannou/ZOI/blob/main/images/ZOIs.png)
 
