@@ -12,7 +12,8 @@ The project focuses on the automated discovery and annotation of Zones of Intere
    
 3. **ZOI Annotation through Context Classification:** The final phase involves classifying the retrieved contextual information using NLP to provide meaningful annotations for each ZOI.
 
-The following image demonstrates an example of a final ZOI shape along with its context.
+The following images demonstrate an example of a final ZOI shape along with its context.
 
 ![](https://github.com/omar-ghannou/ZOI/blob/main/images/ZOIs.png)
+![](https://github.com/omar-ghannou/ZOI/blob/main/images/ZOIs2.png)
 
