@@ -2,7 +2,7 @@
 
 ## Project Description: Automated Discovery and Annotation of Zones of Interest (ZOIs)
 
-This Git repo contains the code implemented for the system described in submission #150 to SIGSPTIAL 2024.
+This Git repository contains the code implemented for the system described in submission #150 to SIGSPTIAL 2024.
 
 The project focuses on the automated discovery and annotation of Zones of Interest (ZOIs) through a three-step process:
 
