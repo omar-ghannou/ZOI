@@ -2,7 +2,7 @@
 
 ## Project Description: Automated Discovery and Annotation of Zones of Interest (ZOIs)
 
-This project serves as a demo for the SIGSPATIAL 2024 conference, showcasing our approach to ZOI discovery and annotation.
+This Git repo contains the code implemented for the system described in submission #150 to SIGSPTIAL 2024.
 
 The project focuses on the automated discovery and annotation of Zones of Interest (ZOIs) through a three-step process:
 
