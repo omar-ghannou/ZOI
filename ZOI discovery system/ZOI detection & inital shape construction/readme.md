@@ -12,3 +12,8 @@ Below are examples of extracted stops along with the initial shape of ZOI:
   <img src="./images/stops.png" alt="Stops extraction" width="45%" />
   <img src="./images/shape.png" alt="Initial shape of ZOI" width="45%" />
 </p>
+
+Demonstrative video:
+
+https://github.com/user-attachments/assets/7756778c-870a-4a24-9591-d6ad8716e167
+
