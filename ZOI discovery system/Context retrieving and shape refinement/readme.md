@@ -1,6 +1,6 @@
 ## Context retrieving and shape refinement
 
-The second phase of this system focuses on retrieving contextual information (textual metadata) from Volunteered Geographic Information (VGI), specificcaly OpenStreetMap (OSM), and refining the initial shapes of the ZOIs to accurately reflect their real boundaries.
+The second phase of this system focuses on retrieving contextual information (textual metadata) from OpenStreetMap (OSM), and refining the initial shapes of the ZOIs to accurately reflect their real boundaries.
 
 Demonstrative video:
 
