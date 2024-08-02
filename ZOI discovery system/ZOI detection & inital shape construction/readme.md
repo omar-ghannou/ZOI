@@ -15,5 +15,7 @@ Below are examples of extracted stops along with the initial shape of ZOI:
 
 Demonstrative video:
 
-https://github.com/user-attachments/assets/7756778c-870a-4a24-9591-d6ad8716e167
+https://github.com/user-attachments/assets/04b32cb6-56f1-4941-b9a4-76fd1a44130d
+
+The generated ZOI files are then used as input for the second part of the system.
 
